@@ -4,8 +4,8 @@ A builder tool based on build_runner and mason for dynamically scaffolding a flu
 
 ### Screenshots
 
-![home screenshot](home.png)
-![read screenshot](read.png)
+![home screenshot](https://raw.githubusercontent.com/sjhorn/scaffolding/master/home.png)
+![read screenshot](https://raw.githubusercontent.com/sjhorn/scaffolding/master/read.png)
 
 
 Create a template in /lib/features/contact.dart
