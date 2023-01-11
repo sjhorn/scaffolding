@@ -1,5 +1,5 @@
 name: scaffolding
-description: A sample command-line application.
+description: A builder tool based on build_runner and mason for dynamically scaffolding a flutter application.
 version: 0.0.1-dev.1    
 homepage: https://github.com/sjhorn/scaffolding
 
