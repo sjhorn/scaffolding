@@ -1,0 +1,19 @@
+name: scaffolding
+description: A sample command-line application.
+version: 0.0.1-dev.1    
+homepage: https://github.com/sjhorn/scaffolding
+
+environment:
+  sdk: '>=2.18.6 <3.0.0'
+
+dependencies:
+  analyzer: ^4.7.0
+  build: ^2.3.1
+  build_config: ^1.1.1
+  mason: ^0.1.0-dev.40
+  mason_logger: ^0.2.3
+
+dev_dependencies:
+  build_runner: ^2.3.3
+  lints: ^2.0.0
+  

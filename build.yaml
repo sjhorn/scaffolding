@@ -1,0 +1,14 @@
+targets:
+  $default:
+    builders:
+      scaffolding|dynamicBuilder:
+        generate_for: [lib/features/*.dart]
+        enabled: true
+
+builders:
+  dynamicBuilder:
+    import: 'package:scaffolding/scaffolding.dart'
+    builder_factories: ['dynamicScaffoldingBuilder']
+    build_extensions: {'.dart': ['.scaffold.dart']}
+    auto_apply: dependents
+    build_to: source
