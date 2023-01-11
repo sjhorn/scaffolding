@@ -2,6 +2,11 @@ A builder tool based on build_runner and mason for dynamically scaffolding a flu
 
 `package:scaffolding` contains the dynamic_scaffolding builder and a command line runner for static scaffolding (this uses [package:mason_cli](https://pub.dev/packages/mason_cli) behind the scenes).
 
+### Screenshots
+
+![home screenshot](home.png)
+![read screenshot](read.png)
+
 
 Create a template in /lib/features/contact.dart
 ```dart
