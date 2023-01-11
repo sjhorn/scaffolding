@@ -5,7 +5,7 @@ A builder tool based on build_runner and mason for dynamically scaffolding a flu
 
 Create a template in /lib/features/contact.dart
 ```dart
-abstract class contact {
+abstract class Contact {
     String firstname = 'Scott';
     String lastname = 'Horn';
     int age = 21; // :)
