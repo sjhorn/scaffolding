@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="assets/scaffolding_full.png" height="125" alt="mason logo" />
+<img src="https://raw.githubusercontent.com/sjhorn/scaffolding/master/assets/scaffolding_full.png" height="125" alt="mason logo" />
 </p>
 
 Scaffolding - a builder tool based on build_runner and mason for dynamically scaffolding a flutter application.
