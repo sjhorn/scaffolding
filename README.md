@@ -1,11 +1,16 @@
-A builder tool based on build_runner and mason for dynamically scaffolding a flutter application.
+
+<p align="center">
+<img src="assets/scaffolding_full.png" height="125" alt="mason logo" />
+</p>
+
+Scaffolding - a builder tool based on build_runner and mason for dynamically scaffolding a flutter application.
 
 `package:scaffolding` contains the dynamic_scaffolding builder and a command line runner for static scaffolding (this uses [package:mason_cli](https://pub.dev/packages/mason_cli) behind the scenes).
 
 ### Screenshots
 
-![home screenshot](https://raw.githubusercontent.com/sjhorn/scaffolding/master/home.png)
-![read screenshot](https://raw.githubusercontent.com/sjhorn/scaffolding/master/read.png)
+![home screenshot](https://raw.githubusercontent.com/sjhorn/scaffolding/master/assets/home.png)
+![read screenshot](https://raw.githubusercontent.com/sjhorn/scaffolding/master/assets/read.png)
 
 
 Create a template in /lib/features/contact.dart
